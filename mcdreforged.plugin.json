@@ -1,0 +1,12 @@
+{
+	"id": "homo_responder",
+	"version": "1.0.0",
+	"name": "Homo Responder",
+	"description": {
+		"en_us": "Replies to player with 1919810 when the player say 114514 in the server",
+		"zh_cn": "当玩家在服务器上说114514时，回复玩家1919810"
+	},
+	"author": "AISophon",
+	"link": "https://github.com/AISophon/homo_responder",
+	"resources": ["LICENSE"]
+}
